@@ -1,0 +1,14 @@
+What is 1+2?
+3
+2
+10
+99
+
+{blank} will be 1
+2-1
+
+What is the capital of Kazakhstan?
+Astana
+Almaty
+Washington
+Moscow
